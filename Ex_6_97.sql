@@ -1,0 +1,6 @@
+INSERT INTO factura 
+VALUES (6559,'2015-02-16',387,null,10,10);
+
+INSERT INTO linia_fac 
+VALUES (6559,1,'IM2P10L',3,14.84,null),
+	   (6559,2,'N8008BA',6,4.38,20);

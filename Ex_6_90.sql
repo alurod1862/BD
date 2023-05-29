@@ -1,0 +1,1 @@
+create index i_nom_cli on client (nom);

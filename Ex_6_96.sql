@@ -1,0 +1,5 @@
+INSERT INTO factura 
+VALUES (6535,'2015-01-01',306,null,21,10);
+
+INSERT INTO linia_fac 
+VALUES (6535,1,'L16555',2,5.89,25);

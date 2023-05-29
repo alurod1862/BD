@@ -1,0 +1,1 @@
+select cod_a as "Codi Article",descrip ,preu ,stock as "stock numeric" , stock_min  as "Stock minim numeric" ,cod_cat  as "Codi Categoria" from  article a;

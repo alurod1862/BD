@@ -1,0 +1,1 @@
+select nom || '. ' || adreca || ', ' || '(' || cp || ')' from client c;

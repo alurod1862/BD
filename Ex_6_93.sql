@@ -1,0 +1,2 @@
+insert into categoria (cod_cat,descripcio)
+	values ('BjcOlimpia','Components Bjc Seria Olimpia'),('Legrand','Components marca Legrand'),('IntMagn','Interruptor Magnetotermico'),('Niessen','Components Niesen Serie Lisa');
